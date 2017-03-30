@@ -19,4 +19,4 @@ hold on;
 plot(b,'r--');
 xlabel('Sample number');ylabel('Value');title('Time plot of A and sample distribution of Alpha=0.5, Beta=0.75, Gamma=1, Delta=0');
 legend('Sample distribution','Theorical value');
-hold off;
+hold off;%
